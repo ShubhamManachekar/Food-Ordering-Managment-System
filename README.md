@@ -120,7 +120,21 @@ Edit food category
 
 ![image](https://github.com/ShubhamManachekar/Food-Ordering-Managment-System/assets/105492356/79769e81-c7b1-4d4c-a18d-722cb8df51a3)
 
-Add Food items
+
+#php
+#laravel
+#restaurant-management
+#tastyigniter
+#restaurant-menu
+#reservation-system
+#food-ordering
+#ordering-system
+#multiplelocations
+#multiple-restaurant
+#table-booking
+#food-ordering-system
+#onlineorderingapp
+#Add Food items
 
 ![image](https://github.com/ShubhamManachekar/Food-Ordering-Managment-System/assets/105492356/5726d779-3291-4f7b-bb7c-8b4ced28a71b)
 
